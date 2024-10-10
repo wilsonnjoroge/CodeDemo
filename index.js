@@ -1,5 +1,5 @@
 const express = require('express');
-const PORT = 4500;
+const PORT = 4500; // define the port
 
 const app = express();
 
